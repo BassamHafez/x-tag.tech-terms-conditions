@@ -19,20 +19,20 @@ use constitutes acceptance of this agreement and any future amendments.`,
     id: "tc_2",
     enTitle: "Definitions",
     enContent:
-      "Company: AL-ROWAD FOR TELECOMMUNICATION AND INFORMATION TECHNOLOGY Company (One Partner), registered in Saudi Arabia under Commercial Registration No. 1010264936, headquartered in Riyadh, Kingdom of Saudi Arabia.\n• Platform: X Tag website, mobile app, passes services, and all related offerings. For the purposes of these Terms and Conditions, any reference to the term ‘Platform’ or ‘X Tag’ shall, whenever the context so requires, be construed to automatically include and apply to the Company owning the Platform.\n• User: Any natural or legal person accessing or using the platform.\n• Services: Digital business cards, NFC tags, QR code sharing, enterprise management, subscription services, passes services, and other features.\n• Content: Data, files, or information submitted, stored, or shared by the user.\n• Third-Party Services: Services provided by external providers, including Google Maps, Apple Wallet, SMS/email OTP services, and payment gateways.",
+      "Company: AL-ROWAD FOR TELECOMMUNICATION AND INFORMATION TECHNOLOGY Company (One Partner), registered in Saudi Arabia under Commercial Registration No. 1010264936, headquartered in Riyadh, Kingdom of Saudi Arabia.\n• Platform: X Tag website, mobile app, passes services, and all related offerings. For the purposes of these Terms and Conditions, any reference to the term ‘Platform’ or ‘X Tag’ shall, whenever the context so requires, be construed to automatically include and apply to the Company owning the Platform.\n• User: Any natural or legal person accessing or using the platform.\n• Services: Digital business cards, QR code sharing, enterprise management, subscription services, passes services, and other features.\n• Content: Data, files, or information submitted, stored, or shared by the user.\n• Third-Party Services: Services provided by external providers, including Google Maps, Apple Wallet, SMS/email OTP services, .",
     arTitle: "التعريفات",
     arContent:
-      "الشركة: شركة الرواد للاتصالات وتقنية المعلومات (شريك واحد)، مسجلة في المملكة العربية السعودية تحت السجل التجاري رقم 1010264936، ومقرها الرياض، المملكة العربية السعودية.\n• المنصة: موقع X Tag الإلكتروني، تطبيق الهاتف المحمول، خدمات البطاقات، وجميع العروض المرتبطة بها. ولأغراض هذه الشروط والأحكام، فإن أي إشارة إلى مصطلح «المنصة» أو «X Tag» يجب أن تُفسر على أنها تشمل الشركة المالكة للمنصة.\n• المستخدم: أي شخص طبيعي أو اعتباري يقوم بالوصول إلى أو استخدام المنصة.\n• الخدمات: البطاقات الرقمية للأعمال، العلامات بتقنية NFC، مشاركة رموز QR، إدارة المؤسسات، خدمات الاشتراك، خدمات البطاقات، وغيرها من الميزات.\n• المحتوى: البيانات أو الملفات أو المعلومات المقدمة أو المخزنة أو المشتركة من قبل المستخدم.\n• خدمات الطرف الثالث: الخدمات المقدمة من مزودين خارجيين بما في ذلك خرائط Google، محفظة Apple، خدمات OTP عبر الرسائل النصية أو البريد الإلكتروني، وبوابات الدفع.",
+      "الشركة: شركة الرواد للاتصالات وتقنية المعلومات (شريك واحد)، مسجلة في المملكة العربية السعودية تحت السجل التجاري رقم 1010264936، ومقرها الرياض، المملكة العربية السعودية.\n• المنصة: موقع X Tag الإلكتروني، تطبيق الهاتف المحمول، خدمات البطاقات، وجميع العروض المرتبطة بها. ولأغراض هذه الشروط والأحكام، فإن أي إشارة إلى مصطلح «المنصة» أو «X Tag» يجب أن تُفسر على أنها تشمل الشركة المالكة للمنصة.\n• المستخدم: أي شخص طبيعي أو اعتباري يقوم بالوصول إلى أو استخدام المنصة.\n• الخدمات: البطاقات الرقمية للأعمال،  مشاركة رموز QR، إدارة المؤسسات، خدمات الاشتراك، خدمات البطاقات، وغيرها من الميزات.\n• المحتوى: البيانات أو الملفات أو المعلومات المقدمة أو المخزنة أو المشتركة من قبل المستخدم.\n• خدمات الطرف الثالث: الخدمات المقدمة من مزودين خارجيين بما في ذلك خرائط Google، محفظة Apple، خدمات OTP عبر الرسائل النصية أو البريد الإلكتروني،.",
   },
 
   {
     id: "tc_3",
     enTitle: "Scope of the Agreement",
     enContent:
-      "This agreement governs all use of X Tag and its services, including:\n• Creating and sharing digital business profiles.\n• Managing team accounts and enterprise dashboards.\n• Using third-party services such as Google Maps, Apple Wallet, SMS/email OTP, and payment gateways.\n• Subscriptions, payments, passes services, and service access.",
+      "This agreement governs all use of X Tag and its services, including:\n• Creating and sharing digital business profiles.\n• Managing team accounts and enterprise dashboards.\n• Using third-party services such as Google Maps, Apple Wallet, SMS/email OTP, .\n• Subscriptions, payments, passes services, and service access.",
     arTitle: "نطاق الاتفاقية",
     arContent:
-      "تحكم هذه الاتفاقية جميع استخدامات X Tag وخدماتها، بما في ذلك:\n• إنشاء ومشاركة الملفات الرقمية للأعمال.\n• إدارة حسابات الفرق ولوحات التحكم المؤسسية.\n• استخدام خدمات الطرف الثالث مثل خرائط Google، محفظة Apple، خدمات OTP عبر الرسائل النصية والبريد الإلكتروني، وبوابات الدفع.\n• الاشتراكات، المدفوعات، خدمات البطاقات، والوصول إلى الخدمات.",
+      "تحكم هذه الاتفاقية جميع استخدامات X Tag وخدماتها، بما في ذلك:\n• إنشاء ومشاركة الملفات الرقمية للأعمال.\n• إدارة حسابات الفرق ولوحات التحكم المؤسسية.\n• استخدام خدمات الطرف الثالث مثل خرائط Google، محفظة Apple، خدمات OTP عبر الرسائل النصية والبريد الإلكتروني.\n• الاشتراكات، ، خدمات البطاقات، والوصول إلى الخدمات.",
   },
 
   {
@@ -96,10 +96,10 @@ As an example and without limitation, Users must not:
     id: "tc_5",
     enTitle: "Third-Party Services",
     enContent:
-      "• X Tag may integrate services from Google Maps, Apple Wallet, SMS/email OTP providers, and payment gateways.\n• Use of these services is subject to their respective terms and privacy policies.\n• X Tag is not responsible for failures, inaccuracies, downtime, or changes in third-party services.\n• Users must comply with all applicable third-party rules when using these features.",
+      "• X Tag may integrate services from Google Maps, Apple Wallet, SMS/email OTP providers, .\n• Use of these services is subject to their respective terms and privacy policies.\n• X Tag is not responsible for failures, inaccuracies, downtime, or changes in third-party services.\n• Users must comply with all applicable third-party rules when using these features.",
     arTitle: "الخدمات المقدمة من أطراف ثالثة",
     arContent:
-      "• قد يدمج X Tag خدمات من (Google Maps , Apple Wallet) ومزودي OTP عبر الرسائل القصيرة/البريد الإلكتروني وبوابات الدفع.\n• يخضع استخدام هذه الخدمات لشروطها وسياساتها الخاصة.\n• لا يتحمل X Tag أي مسؤولية عن الأعطال أو عدم الدقة أو التوقف أو التغييرات في خدمات الأطراف الثالثة.\n• يجب على المستخدمين الالتزام بجميع القواعد المطبقة من الأطراف الثالثة عند استخدام هذه الميزات.",
+      "• قد يدمج X Tag خدمات من (Google Maps , Apple Wallet) ومزودي OTP عبر الرسائل القصيرة/البريد الإلكتروني.\n• يخضع استخدام هذه الخدمات لشروطها وسياساتها الخاصة.\n• لا يتحمل X Tag أي مسؤولية عن الأعطال أو عدم الدقة أو التوقف أو التغييرات في خدمات الأطراف الثالثة.\n• يجب على المستخدمين الالتزام بجميع القواعد المطبقة من الأطراف الثالثة عند استخدام هذه الميزات.",
   },
   {
     id: "tc_6",
@@ -129,41 +129,32 @@ As an example and without limitation, Users must not:
       "• جميع حقوق الملكية الفكرية للمنصة (البرامج، الشعارات، التصاميم) مملوكة لـ X Tag.\n• يحتفظ المستخدمون بملكية المحتوى المقدم لكنهم يمنحون X Tag ترخيصًا غير حصري لاستخدامه في تقديم الخدمات.\n• يجب على المستخدمين عدم نسخ أو تعديل أو إعادة توزيع أي مادة من المنصة دون إذن كتابي.",
   },
   {
-    id: "tc_9",
-    enTitle: "Subscriptions and Payments",
-    enContent:
-      "• Paid services are subject to subscription plans.\n• Users must pay all applicable fees per plan.\n• Payments are processed via third-party gateways (Apple Pay, credit card providers, etc.) and are subject to their terms.\n• Refunds are provided only per company policy and in accordance with Saudi consumer protection laws where applicable.\n• Subscriptions may auto-renew unless canceled before renewal.\n• Users are responsible for ensuring payment methods are valid and authorized.",
-    arTitle: "الاشتراكات والمدفوعات",
-    arContent:
-      "• تخضع الخدمات المدفوعة لخطط الاشتراك.\n• يجب على المستخدمين دفع جميع الرسوم المقررة حسب الخطة.\n• تتم معالجة المدفوعات عبر بوابات دفع تابعة لأطراف ثالثة (Apple Pay، مزودي بطاقات الائتمان، إلخ) وتخضع لشروطهم.\n• يتم تقديم الاستردادات فقط وفقًا لسياسة الشركة وبما يتماشى مع قوانين حماية المستهلك السعودية حيثما ينطبق ذلك.\n• قد يتم تجديد الاشتراكات تلقائيًا ما لم يتم إلغاؤها قبل موعد التجديد.\n• يتحمل المستخدمون مسؤولية التأكد من صلاحية طرق الدفع وتفويضها.",
-  },
-  {
     id: "tc_10",
     enTitle: "Data Protection & Privacy",
     enContent:
       "• X Tag adheres to Saudi PDPL and related regulations.\n• Users’ personal data (name, email, phone, location, payment info, profile data) is collected and processed for authentication, service delivery, payments, and analytics.\n• Users have rights to access, correct, or delete their data.\n• Cross-border transfers of personal data require user consent and legal safeguards.\n• Cybersecurity follows NCA guidelines.\n• Users must review X Tag’s Privacy Policy, which provides further details on data collection and processing.",
     arTitle: "حماية البيانات والخصوصية",
     arContent:
-      "• يلتزم X Tag بقانون حماية البيانات الشخصية السعودي (PDPL) واللوائح ذات الصلة.\n• يتم جمع ومعالجة بيانات المستخدمين الشخصية (الاسم، البريد الإلكتروني، الهاتف، الموقع، معلومات الدفع، بيانات الملف الشخصي) لأغراض التحقق، وتقديم الخدمات، والمدفوعات، والتحليلات.\n• يحق للمستخدمين الوصول إلى بياناتهم أو تصحيحها أو حذفها.\n• تتطلب عمليات نقل البيانات الشخصية عبر الحدود موافقة المستخدم وضمانات قانونية.\n• يتبع الأمن السيبراني إرشادات الهيئة الوطنية للأمن السيبراني (NCA).\n• يجب على المستخدمين مراجعة سياسة الخصوصية الخاصة بـ X Tag التي توفر مزيدًا من التفاصيل حول جمع البيانات ومعالجتها.",
+      "• يلتزم X Tag بقانون حماية البيانات الشخصية السعودي (PDPL) واللوائح ذات الصلة.\n• يتم جمع ومعالجة بيانات المستخدمين الشخصية (الاسم، البريد الإلكتروني، الهاتف، الموقع، معلومات الدفع، بيانات الملف الشخصي) لأغراض التحقق، وتقديم الخدمات، و، والتحليلات.\n• يحق للمستخدمين الوصول إلى بياناتهم أو تصحيحها أو حذفها.\n• تتطلب عمليات نقل البيانات الشخصية عبر الحدود موافقة المستخدم وضمانات قانونية.\n• يتبع الأمن السيبراني إرشادات الهيئة الوطنية للأمن السيبراني (NCA).\n• يجب على المستخدمين مراجعة سياسة الخصوصية الخاصة بـ X Tag التي توفر مزيدًا من التفاصيل حول جمع البيانات ومعالجتها.",
   },
 
   {
     id: "tc_11",
     enTitle: "Mobile App & Permissions",
     enContent:
-      "• Users must grant the app permissions for features such as location, NFC, notifications, and camera.\n• Users consent to receive push notifications and messages related to services, security, or promotions.\n• iOS/Android app usage is subject to Apple App Store and Google Play policies.",
+      "• Users must grant the app permissions for features such as location, notifications, and camera.\n• Users consent to receive push notifications and messages related to services, security, or promotions.\n• iOS/Android app usage is subject to Apple App Store and Google Play policies.",
     arTitle: "تطبيق الهاتف والصلاحيات",
     arContent:
-      "• يجب على المستخدمين منح التطبيق الأذونات اللازمة للميزات مثل الموقع، وNFC، والإشعارات، والكاميرا.\n• يوافق المستخدمون على تلقي إشعارات دفع ورسائل متعلقة بالخدمات أو الأمان أو العروض الترويجية.\n• يخضع استخدام تطبيقات iOS/Android لسياسات متجر Apple App Store وGoogle Play.",
+      "• يجب على المستخدمين منح التطبيق الأذونات اللازمة للميزات مثل الموقع، والإشعارات، والكاميرا.\n• يوافق المستخدمون على تلقي إشعارات دفع ورسائل متعلقة بالخدمات أو الأمان أو العروض الترويجية.\n• يخضع استخدام تطبيقات iOS/Android لسياسات متجر Apple App Store, Google Play.",
   },
   {
     id: "tc_12",
     enTitle: "Age Requirement",
     enContent:
-      "• Users must be at least 18 years old to register and use paid services, subscription plans, Apple Wallet passes, or payment features.\n• Users aged 13–17 may access free features and use paid services only with verified parental or guardian consent.\n• By using the platform, users confirm they meet the applicable age requirements.\n• X Tag reserves the right to suspend or terminate accounts that violate these age requirements.",
+      "• Users aged 13–17 may access free features and use paid services only with verified parental or guardian consent.\n• By using the platform, users confirm they meet the applicable age requirements.\n• X Tag reserves the right to suspend or terminate accounts that violate these age requirements.",
     arTitle: "متطلبات العمر",
     arContent:
-      "• يجب أن يكون عمر المستخدمين 18 عامًا على الأقل للتسجيل واستخدام الخدمات المدفوعة، خطط الاشتراك، بطاقات Apple Wallet أو ميزات الدفع.\n• يمكن للمستخدمين الذين تتراوح أعمارهم بين 13 و17 عامًا الوصول إلى الميزات المجانية واستخدام الخدمات المدفوعة فقط بموافقة موثقة من ولي الأمر أو الوصي.\n• باستخدام المنصة، يؤكد المستخدمون أنهم يستوفون متطلبات العمر المطبقة.\n• يحتفظ X Tag بالحق في تعليق أو إنهاء الحسابات التي تنتهك هذه المتطلبات.",
+      "• يمكن للمستخدمين الذين تتراوح أعمارهم بين 13 و17 عامًا الوصول إلى الميزات المجانية واستخدام الخدمات المدفوعة فقط بموافقة موثقة من ولي الأمر أو الوصي.\n• باستخدام المنصة، يؤكد المستخدمون أنهم يستوفون متطلبات العمر المطبقة.\n• يحتفظ X Tag بالحق في تعليق أو إنهاء الحسابات التي تنتهك هذه المتطلبات.",
   },
   {
     id: "tc_13",
@@ -218,37 +209,37 @@ export const dummyPrivacyPolicy = [
     enTitle: "Data We Collect",
     arTitle: "البيانات التي نجمعها",
     enContent:
-      "We may collect the following categories of data from you:\n\n2.1 Personal Information\n• Name, username, and profile details\n• Email address and phone number\n• User-generated content (business cards, QR codes, messages, uploaded files)\n• Payment information (credit/debit card or Apple Pay) is processed directly through secure third-party payment gateways and is not stored on the Platform.\n\n2.2 Technical Data\n• Device information (type, operating system, version)\n• IP address and connection data\n• App usage and interaction logs\n• Cookies and similar tracking technologies\n\n2.3 Location Data\n• Location data may be collected only when explicitly required for specific app features, such as mapping or analytics.\n• Location data is not collected for NFC or passes services.\n\n2.4 Third-Party Data\nWe may receive data about you from third-party services you use with the Platform, including:\n• Google Maps (location services)\n• Apple Wallet, Google Wallet, and PassKit (for passes services)\n• SMS/email OTP providers (authentication)\n• Payment gateways (transactions)",
+      "We may collect the following categories of data from you:\n\n2.1 Personal Information\n• Name, username, and profile details\n• Email address and phone number\n• User-generated content (business cards, QR codes, messages, uploaded files)\n• Payment information (credit/debit card or Apple Pay) is processed directly through secure third-party payment gateways and is not stored on the Platform.\n\n2.2 Technical Data\n• Device information (type, operating system, version)\n• IP address and connection data\n• App usage and interaction logs\n• Cookies and similar tracking technologies\n\n2.3 Location Data\n• Location data may be collected only when explicitly required for specific app features, such as mapping or analytics.\n• Location data is not collected for NFC or passes services.\n\n2.4 Third-Party Data\nWe may receive data about you from third-party services you use with the Platform, including:\n• Google Maps (location services)\n• Apple Wallet, Google Wallet, and PassKit (for passes services)\n• SMS/email OTP providers (authentication)",
     arContent:
-      "قد نقوم بجمع الفئات التالية من البيانات منك:\n\n2.1 المعلومات الشخصية\n• الاسم، اسم المستخدم، وتفاصيل الملف الشخصي\n• عنوان البريد الإلكتروني ورقم الهاتف\n• المحتوى الذي ينشئه المستخدم (بطاقات الأعمال، رموز QR، الرسائل، الملفات المرفوعة)\n• تتم معالجة معلومات الدفع (بطاقة الائتمان/الخصم أو Apple Pay) مباشرةً من خلال بوابات دفع آمنة تابعة لجهات خارجية ولا يتم تخزينها على المنصة.\n\n2.2 البيانات التقنية\n• معلومات الجهاز (النوع، نظام التشغيل، الإصدار)\n• عنوان IP وبيانات الاتصال\n• سجلات استخدام التطبيق والتفاعل\n• ملفات تعريف الارتباط وتقنيات التتبع المشابهة\n\n2.3 بيانات الموقع\n• قد يتم جمع بيانات الموقع فقط عند الحاجة الصريحة لميزات معينة في التطبيق، مثل الخرائط أو التحليلات.\n• لا يتم جمع بيانات الموقع لخدمات NFC أو البطاقات.\n\n2.4 بيانات من أطراف ثالثة\nقد نتلقى بيانات عنك من خدمات خارجية تستخدمها مع المنصة، بما في ذلك:\n• خرائط Google (خدمات الموقع)\n• Apple Wallet وGoogle Wallet وPassKit (لخدمات البطاقات)\n• مزودي خدمة OTP عبر الرسائل القصيرة/البريد الإلكتروني (المصادقة)\n• بوابات الدفع (المعاملات)",
+      "قد نقوم بجمع الفئات التالية من البيانات منك:\n\n2.1 المعلومات الشخصية\n• الاسم، اسم المستخدم، وتفاصيل الملف الشخصي\n• عنوان البريد الإلكتروني ورقم الهاتف\n• المحتوى الذي ينشئه المستخدم (بطاقات الأعمال، رموز QR، الرسائل، الملفات المرفوعة)\n• تتم معالجة معلومات الدفع (بطاقة الائتمان/الخصم أو Apple Pay) مباشرةً من خلال بوابات دفع آمنة تابعة لجهات خارجية ولا يتم تخزينها على المنصة.\n\n2.2 البيانات التقنية\n• معلومات الجهاز (النوع، نظام التشغيل، الإصدار)\n• عنوان IP وبيانات الاتصال\n• سجلات استخدام التطبيق والتفاعل\n• ملفات تعريف الارتباط وتقنيات التتبع المشابهة\n\n2.3 بيانات الموقع\n• قد يتم جمع بيانات الموقع فقط عند الحاجة الصريحة لميزات معينة في التطبيق، مثل الخرائط أو التحليلات.\n• لا يتم جمع بيانات الموقع لخدمات NFC أو البطاقات.\n\n2.4 بيانات من أطراف ثالثة\nقد نتلقى بيانات عنك من خدمات خارجية تستخدمها مع المنصة، بما في ذلك:\n• خرائط Google (خدمات الموقع)\n• Apple Wallet, Google Wallet, Passkit (لخدمات البطاقات)\n• مزودي خدمة OTP عبر الرسائل القصيرة/البريد الإلكتروني (المصادقة)\n• بوابات الدفع (المعاملات)",
   },
   {
     id: "pp_3",
     enTitle: "Purpose of Data Processing",
     arTitle: "غرض معالجة البيانات",
     enContent:
-      "We process your personal data for the following purposes:\n• To provide and improve our Platform and services\n• To authenticate users and secure accounts\n• To process payments, subscriptions, and passes services through third-party providers\n• To communicate with users, including notifications, updates, and promotions\n• To comply with legal obligations under Saudi law\n• To prevent fraud, abuse, or illegal activities\n• For analytics, research, and service optimization",
+      "We process your personal data for the following purposes:\n• To provide and improve our Platform and services\n• To authenticate users and secure accounts \n• To communicate with users, including notifications, updates, and promotions\n• To comply with legal obligations under Saudi law\n• To prevent fraud, abuse, or illegal activities\n• For analytics, research, and service optimization",
     arContent:
-      "نقوم بمعالجة بياناتك الشخصية للأغراض التالية:\n• لتقديم وتحسين منصتنا وخدماتنا\n• لمصادقة المستخدمين وتأمين الحسابات\n• لمعالجة المدفوعات والاشتراكات وخدمات البطاقات من خلال مزودي خدمات خارجيين\n• للتواصل مع المستخدمين، بما في ذلك الإشعارات والتحديثات والعروض الترويجية\n• للامتثال للالتزامات القانونية بموجب القانون السعودي\n• لمنع الاحتيال أو الإساءة أو الأنشطة غير القانونية\n• لأغراض التحليلات والبحث وتحسين الخدمات",
+      "نقوم بمعالجة بياناتك الشخصية للأغراض التالية:\n• لتقديم وتحسين منصتنا وخدماتنا\n• لمصادقة المستخدمين وتأمين الحسابات \n• للتواصل مع المستخدمين، بما في ذلك الإشعارات والتحديثات والعروض الترويجية\n• للامتثال للالتزامات القانونية بموجب القانون السعودي\n• لمنع الاحتيال أو الإساءة أو الأنشطة غير القانونية\n• لأغراض التحليلات والبحث وتحسين الخدمات",
   },
 
   {
     id: "pp_4",
     enTitle: "Legal Basis for Processing",
     enContent:
-      "Under PDPL, we process personal data based on:\n• Consent: For features requiring explicit user permission (location, payments, notifications)\n• Contractual necessity: To provide services and fulfill subscriptions\n• Legal obligation: To comply with Saudi laws and regulations\n• Legitimate interests: For security, analytics, and service improvement, provided it does not override user rights",
+      "Under PDPL, we process personal data based on:\n• Consent: For features requiring explicit user permission (location, notifications)\n• Contractual necessity: To provide services and fulfill subscriptions\n• Legal obligation: To comply with Saudi laws and regulations\n• Legitimate interests: For security, analytics, and service improvement, provided it does not override user rights",
     arTitle: "الأساس القانوني لمعالجة البيانات",
     arContent:
-      "بموجب نظام حماية البيانات الشخصية (PDPL)، نقوم بمعالجة البيانات الشخصية استنادًا إلى:\n• الموافقة: للميزات التي تتطلب إذنًا صريحًا من المستخدم (مثل الموقع، المدفوعات، الإشعارات)\n• الضرورة التعاقدية: لتقديم الخدمات وتنفيذ الاشتراكات\n• الالتزام القانوني: للامتثال للأنظمة واللوائح السعودية\n• المصالح المشروعة: لأغراض الأمان، والتحليلات، وتحسين الخدمات، بشرط ألا يتعارض ذلك مع حقوق المستخدمين",
+      "بموجب نظام حماية البيانات الشخصية (PDPL)، نقوم بمعالجة البيانات الشخصية استنادًا إلى:\n• الموافقة: للميزات التي تتطلب إذنًا صريحًا من المستخدم (مثل الموقع، ، الإشعارات)\n• الضرورة التعاقدية: لتقديم الخدمات وتنفيذ الاشتراكات\n• الالتزام القانوني: للامتثال للأنظمة واللوائح السعودية\n• المصالح المشروعة: لأغراض الأمان، والتحليلات، وتحسين الخدمات، بشرط ألا يتعارض ذلك مع حقوق المستخدمين",
   },
   {
     id: "pp_5",
     enTitle: "Data Sharing",
     enContent:
-      "We may share your data with:\n• Service providers: Third-party providers such as Google Maps, Apple Wallet, Google Wallet, PassKit, SMS/email OTP providers, and payment gateways, strictly for service delivery\n• Legal authorities: When required by Saudi law or in response to legal requests\n• Business partners: Only with your consent and for service purposes\n• Internal departments: For administrative, security, and analytical purposes\nWe never sell your personal data to third parties.",
+      "We may share your data with:\n• Service providers: Third-party providers such as Google Maps, Apple Wallet, Google Wallet, PassKit, SMS/email OTP providers, , strictly for service delivery\n• Legal authorities: When required by Saudi law or in response to legal requests\n• Business partners: Only with your consent and for service purposes\n• Internal departments: For administrative, security, and analytical purposes\nWe never sell your personal data to third parties.",
     arTitle: "مشاركة البيانات",
     arContent:
-      "قد نقوم بمشاركة بياناتك مع:\n• مزوّدي الخدمات: أطراف ثالثة مثل خرائط Google، محفظة Apple، محفظة Google، PassKit، مزوّدي OTP عبر الرسائل القصيرة/البريد الإلكتروني، وبوابات الدفع، وذلك حصريًا لغرض تقديم الخدمة\n• الجهات القانونية: عند الطلب بموجب القانون السعودي أو استجابةً لطلبات قانونية\n• الشركاء التجاريين: فقط بموافقتك ولأغراض تقديم الخدمات\n• الإدارات الداخلية: لأغراض إدارية وأمنية وتحليلية\nنحن لا نبيع بياناتك الشخصية لأي طرف ثالث.",
+      "قد نقوم بمشاركة بياناتك مع:\n• مزوّدي الخدمات: أطراف ثالثة مثل خرائط Google، محفظة Apple، محفظة Google، PassKit، مزوّدي OTP عبر الرسائل القصيرة/البريد الإلكتروني، وذلك حصريًا لغرض تقديم الخدمة\n• الجهات القانونية: عند الطلب بموجب القانون السعودي أو استجابةً لطلبات قانونية\n• الشركاء التجاريين: فقط بموافقتك ولأغراض تقديم الخدمات\n• الإدارات الداخلية: لأغراض إدارية وأمنية وتحليلية\nنحن لا نبيع بياناتك الشخصية لأي طرف ثالث.",
   },
   {
     id: "pp_6",
@@ -318,10 +309,10 @@ export const dummyPrivacyPolicy = [
     id: "pp_13",
     enTitle: "Third-Party Services Privacy",
     enContent:
-      "• Third-party services used in the Platform are subject to their own privacy policies:\n• Google Maps: https://policies.google.com/privacy\n• Apple Wallet / Google Wallet / PassKit: Refer to provider policies\n• Payment gateways: Refer to provider policies\n• SMS/email OTP providers: Refer to provider policies\nX Tag is not responsible for third-party data practices.",
+      "• Third-party services used in the Platform are subject to their own privacy policies:\n• Google Maps: https://policies.google.com/privacy\n• Apple Wallet / Google Wallet / PassKit: Refer to provider policies\n• SMS/email OTP providers: Refer to provider policies\nX Tag is not responsible for third-party data practices.",
     arTitle: "خصوصية الخدمات المقدمة من أطراف ثالثة",
     arContent:
-      "• تخضع الخدمات المقدمة من أطراف ثالثة والمستخدمة في المنصة لسياسات الخصوصية الخاصة بها:\n• خرائط Google: https://policies.google.com/privacy\n• Apple Wallet / Google Wallet / PassKit: الرجوع إلى سياسات المزود\n• بوابات الدفع: الرجوع إلى سياسات المزود\n• مزودو رسائل SMS/البريد الإلكتروني (OTP): الرجوع إلى سياسات المزود\nمنصة X Tag غير مسؤولة عن ممارسات البيانات الخاصة بالأطراف الثالثة.",
+      "• تخضع الخدمات المقدمة من أطراف ثالثة والمستخدمة في المنصة لسياسات الخصوصية الخاصة بها:\n• خرائط Google: https://policies.google.com/privacy\n• Apple Wallet / Google Wallet / PassKit: الرجوع إلى سياسات المزود\n• مزودو رسائل SMS/البريد الإلكتروني (OTP): الرجوع إلى سياسات المزود\nمنصة X Tag غير مسؤولة عن ممارسات البيانات الخاصة بالأطراف الثالثة.",
   },
   {
     id: "pp_14",
