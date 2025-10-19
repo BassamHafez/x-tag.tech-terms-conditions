@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+body{
+  padding: 2rem;
+  font-family: "Cairo";
+}
+
+@media screen and (width<=768px) {
+  body,
+  html {
+    font-size: 14px;
+  }
+}
+@media screen and (width<=400px) {
+body{
+  padding: 1rem;
+}
+}
