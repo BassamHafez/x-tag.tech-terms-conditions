@@ -151,10 +151,10 @@ As an example and without limitation, Users must not:
     id: "tc_12",
     enTitle: "Age Requirement",
     enContent:
-      "• Users aged 13–17 may access free features and use paid services only with verified parental or guardian consent.\n• By using the platform, users confirm they meet the applicable age requirements.\n• X Tag reserves the right to suspend or terminate accounts that violate these age requirements.",
+      "• Users must be at least 18 years old to register and use Apple Wallet passes.\n• Users aged 13–17 may access free features and use paid services only with verified parental or guardian consent.\n• By using the platform, users confirm they meet the applicable age requirements.\n• X Tag reserves the right to suspend or terminate accounts that violate these age requirements.",
     arTitle: "متطلبات العمر",
     arContent:
-      "• يمكن للمستخدمين الذين تتراوح أعمارهم بين 13 و17 عامًا الوصول إلى الميزات المجانية واستخدام الخدمات المدفوعة فقط بموافقة موثقة من ولي الأمر أو الوصي.\n• باستخدام المنصة، يؤكد المستخدمون أنهم يستوفون متطلبات العمر المطبقة.\n• يحتفظ X Tag بالحق في تعليق أو إنهاء الحسابات التي تنتهك هذه المتطلبات.",
+      "• يجب أن يكون عمر المستخدمين 18 عامًا على الأقل للتسجيل واستخدام بطاقات Apple Wallet.\n• يمكن للمستخدمين الذين تتراوح أعمارهم بين 13 و17 عامًا الوصول إلى الميزات المجانية واستخدام الخدمات المدفوعة فقط بموافقة موثقة من ولي الأمر أو الوصي.\n• باستخدام المنصة، يؤكد المستخدمون أنهم يستوفون متطلبات العمر المطبقة.\n• يحتفظ X Tag بالحق في تعليق أو إنهاء الحسابات التي تنتهك هذه المتطلبات.",
   },
   {
     id: "tc_13",
