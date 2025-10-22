@@ -34,7 +34,6 @@ const DeleteRequestForm = ({ setShowModal }) => {
             },
             {
               onSuccess: (response) => {
-                console.log(response);
                 let res = response.data;
                 if (res.success || res.message === "Logged in successfully") {
                   const userToken = res?.data?.accessToken;
@@ -50,7 +49,7 @@ const DeleteRequestForm = ({ setShowModal }) => {
                 }
               },
               onError: (error) => {
-                console.log(error);
+                console.error(error);
                 try {
                   if (
                     error?.data?.message ===

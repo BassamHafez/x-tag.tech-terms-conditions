@@ -12,7 +12,6 @@ const DeleteAccount = ({ toggleModal }) => {
         type: "users",
         token: token,
       });
-      console.log(res);
       if (res.status === 204 || res.status === 200) {
         toast.success(t("deletedSucc"));
         sessionStorage.removeItem("token");

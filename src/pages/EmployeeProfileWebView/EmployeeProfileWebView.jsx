@@ -77,7 +77,7 @@ const EmployeeProfileWebView = () => {
     try {
       photoBase64 = await getBase64Image(profileData.photo);
     } catch (error) {
-      console.log("Could not embed photo in vCard", error);
+      console.error("Could not embed photo in vCard", error);
     }
 
     let vCardData = `BEGIN:VCARD
@@ -318,7 +318,7 @@ TITLE:${profileData.title}`;
       setCopiedUrl(url);
       setTimeout(() => setCopiedUrl(null), 2000);
     } catch (e) {
-      console.log(e);
+      console.error(e);
       toast.error(t("failedToCopy"));
     }
   };
