@@ -1,9 +1,11 @@
+import { Toaster } from "@/shared/components";
 import { Outlet } from "react-router-dom";
 const Layout = () => {
   return (
-    <main>
+    <>
+      <Toaster />
       <Outlet />
-    </main>
+    </>
   );
 };
 

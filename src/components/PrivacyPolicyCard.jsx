@@ -5,13 +5,13 @@ const PrivacyPolicyCard = ({ ppData, index }) => {
         <div className="space-y-6 text-start">
           <div dir="ltr">
             <h2 className="font-bold text-xl mb-1">
-              <span className="text-[#ce9615]">{index + 1}-</span> {ppData?.enTitle}
+              <span className="text-main">{index + 1}-</span> {ppData?.enTitle}
             </h2>
             <p className="whitespace-pre-wrap">{ppData?.enContent}</p>
           </div>
           <div dir="rtl">
             <h2 className="font-bold text-xl mb-1">
-              <span className="text-[#ce9615]">{index + 1}-</span> {ppData?.arTitle}
+              <span className="text-main">{index + 1}-</span> {ppData?.arTitle}
             </h2>
             <p className="whitespace-pre-wrap">{ppData?.arContent}</p>
           </div>

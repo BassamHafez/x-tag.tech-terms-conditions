@@ -1,7 +1,73 @@
 @import "tailwindcss";
+@theme {
+  --color-main: #ce9615;
+}
 
-body{
-  padding: 2rem;
+body {
+  font-family: "Cairo";
+  scroll-behavior: smooth;
+}
+body::-webkit-scrollbar,
+.no_scroll_bar::-webkit-scrollbar {
+  display: none;
+}
+
+body::-webkit-scrollbar,
+.no_scroll_bar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+button {
+  outline: none;
+  box-shadow: none;
+  cursor: pointer;
+}
+button:disabled {
+  opacity: 0.5;
+}
+.field {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+  position: relative;
+}
+.field input,
+.text_area {
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.134);
+  border: 1px solid rgba(242, 241, 241, 0.084);
+  width: 100%;
+  transition: all 0.4s;
+  min-width: 12.5rem;
+}
+.text_area {
+  height: 135px;
+}
+
+.field input::placeholder,
+.field .text_area::placeholder {
+  font-size: 13px;
+  transition: all 0.4s;
+}
+.field input:focus,
+.text_area:focus {
+  scale: 1.01;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.362);
+}
+.field input:focus::placeholder,
+.field .text_area:focus::placeholder {
+  font-size: 11px;
+}
+.field label {
+  font-weight: 600;
+  margin-bottom: 10px;
+  text-align: start;
+}
+
+.mainFont {
   font-family: "Cairo";
 }
 
@@ -12,7 +78,7 @@ body{
   }
 }
 @media screen and (width<=400px) {
-body{
-  padding: 1rem;
-}
+  body {
+    padding: 1rem;
+  }
 }

@@ -1,0 +1,14 @@
+.error_message {
+  color: rgb(238, 8, 8) !important;
+  font-weight: 600;
+  font-size: 12px;
+  position: absolute;
+  top: 88%;
+}
+
+.error_message_ar {
+  right: 15px !important;
+}
+.error_message_en {
+  left: 15px !important;
+}
