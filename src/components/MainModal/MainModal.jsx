@@ -18,7 +18,7 @@ const MainModal = ({
   title,
   headerClasses = "",
   customBackground = "bg-white",
-  dangerAction=false
+  dangerAction = false,
 }) => {
   const { t } = useTranslation();
 
@@ -73,10 +73,20 @@ const MainModal = ({
             <section>{children}</section>
             {!noActions && (
               <div className="flex justify-end gap-2 items-center mt-4 px-4">
-                <button onClick={onClose}>{t("cancel")}</button>
+                <button
+                  className="bg-gray-100 py-1 min-w-18 rounded"
+                  onClick={onClose}
+                >
+                  {t("cancel")}
+                </button>
 
                 {confirmTxt && (
-                  <MainFormBtn onClick={onConfirm} dangerAction={dangerAction} classes="min-w-24" small>
+                  <MainFormBtn
+                    onClick={onConfirm}
+                    dangerAction={dangerAction}
+                    classes="min-w-24"
+                    small
+                  >
                     {confirmTxt}
                   </MainFormBtn>
                 )}

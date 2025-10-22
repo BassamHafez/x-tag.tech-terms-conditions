@@ -12,7 +12,7 @@ const DeleteAuth = () => {
   }
 
   return (
-    <main className="relative flex flex-col justify-center items-center h-screen w-screen bg-[#1F1F1F] text-white">
+    <main className="relative flex flex-col justify-center items-center h-screen w-screen bg-[#1F1F1F] text-white p-4">
       <div className="absolute top-10 end-10">
         <LangSwitcher />
       </div>

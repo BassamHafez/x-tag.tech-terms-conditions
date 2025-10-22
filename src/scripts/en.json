@@ -48,5 +48,8 @@
   "deleteAccCaption": "This action is permanent and cannot be undone. Deleting this account will result in the loss of all your data and access to the platform",
   "delete": "Delete",
   "deletedSucc": "Deleted Successfully",
-  "unAuthAction": "You are unauthorized to perform this action"
+  "unAuthAction": "You are unauthorized to perform this action",
+    "cancel":"Cancel",
+  "share":"Share",
+  "min8": "Must be at least 8 characters"
 }
