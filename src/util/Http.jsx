@@ -2,6 +2,7 @@ import axios from "axios";
 const baseServerUrl = import.meta.env.VITE_API_BASE_URL;
 
 export const signFormsHandler = async ({ type, formData }) => {
+  console.log(`${baseServerUrl}api/v1/auth/${type}`)
   try {
     const response = await axios.post(
       `${baseServerUrl}api/v1/auth/${type}`,
@@ -24,8 +25,9 @@ export const signFormsHandler = async ({ type, formData }) => {
   }
 };
 
-export const mainDeleteFunHandler = async ({ type,token }) => {
-  console.log(`${baseServerUrl}api/v1/${type}`)
+export const mainDeleteFunHandler = async ({ type, token }) => {
+  console.log(`${baseServerUrl}api/v1/${type}`);
+  console.log(token);
   try {
     const response = await axios.delete(`${baseServerUrl}api/v1/${type}`, {
       headers: { Authorization: `Bearer ${token}` },
