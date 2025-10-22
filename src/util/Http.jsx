@@ -25,6 +25,7 @@ export const signFormsHandler = async ({ type, formData }) => {
 };
 
 export const mainDeleteFunHandler = async ({ type,token }) => {
+  console.log(`${baseServerUrl}api/v1/${type}`)
   try {
     const response = await axios.delete(`${baseServerUrl}api/v1/${type}`, {
       headers: { Authorization: `Bearer ${token}` },
