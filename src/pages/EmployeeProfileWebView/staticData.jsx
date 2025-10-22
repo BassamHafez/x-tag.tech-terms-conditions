@@ -11,8 +11,9 @@ import {
   whatsapp,
 } from "@/shared/images";
 import { dummyPdf, dummyPdf2, dummyWord } from "@/shared/files";
-export const imgUrl =
-  "https://api.x-tag.tech/uploads/news/1761049553293-310698412-2151674306.jpg";
+export const imgUrl = `${
+  import.meta.env.VITE_API_BASE_URL
+}uploads/news/1761049553293-310698412-2151674306.jpg`;
 export const currentLink = "https://dashboad.x-tag.tech/bassam";
 export const secondary = "#181818";
 export const shadowColor = "0 2px 1px rgba(255,255,255,0.05)";
