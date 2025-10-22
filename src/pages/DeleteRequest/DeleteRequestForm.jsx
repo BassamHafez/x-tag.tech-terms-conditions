@@ -8,9 +8,8 @@ import { object, toast } from "@/shared/constants";
 import { FieldWrapper, InputErrorMessage } from "@/shared/components";
 import { signFormsHandler } from "@/util/Http";
 import MainFormBtn from "@/components/ui/MainFormBtn";
-import DeleteAccount from "./DeleteAccount";
 
-const DeleteRequestForm = ({ setShowModal }) => {
+const DeleteRequestForm = ({ toggleModal }) => {
   const { emailValidation, passwordValidation } = useValidation();
   const { t } = useTranslation();
 
@@ -39,11 +38,11 @@ const DeleteRequestForm = ({ setShowModal }) => {
                   const userToken = res?.data?.accessToken;
                   if (userToken) {
                     sessionStorage.setItem("token", userToken);
-                    setShowModal(true);
+                    toggleModal(true);
                     // navigate("/delete-me");
                     resolve();
                   } else {
-                    setShowModal(false);
+                    toggleModal(false);
                     reject("wrong");
                   }
                 }
