@@ -77,8 +77,3 @@ button:disabled {
     font-size: 14px;
   }
 }
-@media screen and (width<=400px) {
-  body {
-    padding: 1rem;
-  }
-}
